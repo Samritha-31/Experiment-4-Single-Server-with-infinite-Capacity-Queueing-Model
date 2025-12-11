@@ -54,7 +54,8 @@ else:
     print("Warning! Objects overflow will happen in the conveyer") 
 print("----------------------------------------")
 ~~~
-# COLAB LINK:https://colab.research.google.com/drive/1NwdXtDNYYK5xVVbV2SQJyhO9MEhMytSB?usp=sharing
+# COLAB LINK:
+https://colab.research.google.com/drive/1NwdXtDNYYK5xVVbV2SQJyhO9MEhMytSB?usp=sharing
 
 # Output
 
